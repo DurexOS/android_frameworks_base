@@ -20,6 +20,7 @@ import static android.media.AudioFormat.SURROUND_SOUND_ENCODING;
 import static android.provider.settings.validators.SettingsValidators.ANY_INTEGER_VALIDATOR;
 import static android.provider.settings.validators.SettingsValidators.ANY_STRING_VALIDATOR;
 import static android.provider.settings.validators.SettingsValidators.BOOLEAN_VALIDATOR;
+import static android.provider.settings.validators.SettingsValidators.NONE_NEGATIVE_LONG_VALIDATOR;
 import static android.provider.settings.validators.SettingsValidators.PACKAGE_NAME_VALIDATOR;
 import static android.provider.settings.validators.SettingsValidators.PERCENTAGE_INTEGER_VALIDATOR;
 import static android.view.Display.HdrCapabilities.HDR_TYPES;
